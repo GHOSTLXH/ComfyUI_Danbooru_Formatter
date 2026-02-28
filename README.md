@@ -1,2 +1,47 @@
 # ComfyUI_Danbooru_Formatter
+这是两个用来给输入提示词（prompt）按danbooru tag的格式（tag_a， tag_b, ...）进行转换并输出转换后提示词的ComfyUI节点。
+
 These are two ComfyUI nodes used for converting input prompts into the Danbooru tag format (tag_a, tag_b, ...) and outputting the converted prompts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
