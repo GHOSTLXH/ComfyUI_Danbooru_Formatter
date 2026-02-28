@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI_Danbooru_Formatter"
+description = "These are two ComfyUI nodes used for converting input prompts into the Danbooru tag format (tag_a, tag_b, ...) and outputting the converted prompts."
+version = "1.0.1"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/GHOSTLXH/ComfyUI_Danbooru_Formatter"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "ghostlxh"
+DisplayName = "ComfyUI_Danbooru_Formatter"
+Icon = ""
